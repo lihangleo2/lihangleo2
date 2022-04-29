@@ -34,3 +34,5 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=lihangleo2&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
+
+<p align="center">理想还很远，但今天我努力了吗？</p>
