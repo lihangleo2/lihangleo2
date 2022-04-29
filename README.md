@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **lihangleo2/lihangleo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://xiaozhuanlan.com/Blankj">
-    <img src="https://img.shields.io/badge/🌱%20专栏-基你太美-brightness.svg" />
+  <a href="https://juejin.cn/user/114004941084984/posts">
+    <img src="https://img.shields.io/badge/📖%20掘金地址-brightness.svg" />
   </a>
-  <a href="https://blankj.com">
-    <img src="https://img.shields.io/badge/📖%20Blog-Blankj-brightness.svg" />
+  <a href="https://mp.weixin.qq.com/s/0qPaYe_FCdNL5Vk5miBPww">
+    <img src="https://img.shields.io/badge/🚀%20微信公众号-brightness.svg" />
   </a>
-  <a href="https://blankj.com/2020/05/19/welcome-bytedance">
-    <img src="https://img.shields.io/badge/🔥%20内推-字节跳动-brightness.svg" />
+  <a href="https://blog.csdn.net/leol_2?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/📖%20CSDN地址-brightness.svg" />
   </a>
   <a href="https://github.com/Blankj">
-    <img src="https://komarev.com/ghpvc/?username=Blankj&color=brightgreen&label=👁%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=lihangleo2&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
