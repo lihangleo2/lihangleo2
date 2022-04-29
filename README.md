@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <a href="https://blog.csdn.net/leol_2?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/📖%20CSDN地址-brightness.svg" />
   </a>
-  <a href="https://github.com/Blankj">
-    <img src="https://komarev.com/ghpvc/?username=lihangleo2&color=brightgreen&label=👁%20Views" />
+  <a href="//shang.qq.com/wpa/qunwpa?idkey=5e29576e7d2ebf08fa37d8953a0fea3b5eafdff2c488c1f5c152223c228f1d11">
+    <img src="https://img.shields.io/badge/🐧%20QQ群交流-brightness.svg" />
   </a>  
 </p>
 
