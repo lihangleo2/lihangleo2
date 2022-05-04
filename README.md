@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/📖%20CSDN地址-brightness.svg" />
   </a>
   <a href="//shang.qq.com/wpa/qunwpa?idkey=5e29576e7d2ebf08fa37d8953a0fea3b5eafdff2c488c1f5c152223c228f1d11">
-    <img src="https://img.shields.io/badge/🐧%20QQ群交流-brightness.svg" />
+    <img src="https://img.shields.io/badge/🐧%20QQ交流群-brightness.svg" />
   </a>  
 </p>
 
