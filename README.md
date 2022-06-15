@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <a href="https://juejin.cn/user/114004941084984/posts">
     <img src="https://img.shields.io/badge/📖%20掘金地址-brightness.svg" />
   </a>
-  <a href="https://mp.weixin.qq.com/s/0qPaYe_FCdNL5Vk5miBPww">
+<!--   <a href="https://mp.weixin.qq.com/s/0qPaYe_FCdNL5Vk5miBPww">
     <img src="https://img.shields.io/badge/🚀%20微信公众号-brightness.svg" />
-  </a>
+  </a> -->
   <a href="https://blog.csdn.net/leol_2?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/📖%20CSDN地址-brightness.svg" />
   </a>
