@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <a href="//shang.qq.com/wpa/qunwpa?idkey=5e29576e7d2ebf08fa37d8953a0fea3b5eafdff2c488c1f5c152223c228f1d11">
     <img src="https://img.shields.io/badge/🐧%20QQ交流群-brightness.svg" />
   </a>  
+  <a href="https://github.com/lihangleo2">
+    <img src="https://komarev.com/ghpvc/?username=lihangleo2&color=brightgreen&label=👁%20Views" />
+  </a>  
 </p>
 
 <p align="center">理想还很远，但今天我努力了吗？</p>
