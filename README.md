@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://blog.csdn.net/leol_2?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/📖%20CSDN地址-brightness.svg" />
   </a>
-  <a href="//shang.qq.com/wpa/qunwpa?idkey=5e29576e7d2ebf08fa37d8953a0fea3b5eafdff2c488c1f5c152223c228f1d11">
+  <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=C5RJFvVexskcqccqO1ORpLID9dBxlbIM&authKey=aax93zJjnA2San0TA0VEIc%2BLU9RDtstZ7BD7pz3FPdJRjlOu8%2Ffb%2BDNSX0Cz6hbr&noverify=0&group_code=209010674">
     <img src="https://img.shields.io/badge/🐧%20QQ交流群-brightness.svg" />
   </a>  
   <a href="https://github.com/lihangleo2">
